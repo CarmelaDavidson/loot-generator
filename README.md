@@ -1,12 +1,15 @@
 # Project: Loot Generator
 
-Authors: (_TODO: fill in names here!_)
+Authors: Carmela Davidson
 
 ## Resources
 
-*   (_TODO: fill in resources here!_)
-*   ...
-*   ...
+*   W3Schools
+*   Java 17 APi
+*   VSCode
+*   Professor Osera
+*   TTAP
+*   Mentor David
 
 ## Revision Log
 
